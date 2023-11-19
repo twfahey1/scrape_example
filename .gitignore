@@ -1,0 +1,5 @@
+/node_modules
+/church_data.csv
+google-service-creds
+/google-service-creds.json
+vendor
